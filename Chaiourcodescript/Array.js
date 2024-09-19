@@ -23,5 +23,3 @@ const another_arr=[1,2,3,[3,5,4],5,[45,5,[34,5,6]]];
  const score2=200;
  console.log(Array.of(score1,score13,score2,score4));
  
- 
- 
